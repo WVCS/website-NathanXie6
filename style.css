@@ -1,3 +1,21 @@
 body {
+  background-color: silver
+}
 
+h3 {
+  color: green;
+  text-decoration: overline underline 10px blue dotted;
+  letter-spacing: 3px;
+  word-spacing: 4px;
+  text0shaddow: 2px 3px 2px gold;
+  
+}
+
+h3:hover{
+  font-size: 400%;
+  text-transform: uppercase;
+}
+
+img:hover{
+  width: 80%;
 }
