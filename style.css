@@ -19,3 +19,28 @@ h3:hover{
 img:hover{
   width: 80%;
 }
+
+nav{
+  list-style-type: none;
+  background-color: grey;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+
+}
+
+li a{
+  text-decoration: none;
+  color: white;
+  display: block;
+  float: left;
+  padding: 15px 50px;
+  
+}
+
+li a:hover{
+  background-color: wheat;
+  color: black;
+  font-size: 130%;
+}
